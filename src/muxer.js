@@ -52,4 +52,3 @@ class MultiplexMuxer extends EventEmitter {
 }
 
 module.exports = MultiplexMuxer
-

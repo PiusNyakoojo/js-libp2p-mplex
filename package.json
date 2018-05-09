@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/libp2p/js-libp2p-mplex#readme",
   "devDependencies": {
-    "aegir": "^13.0.6",
+    "aegir": "^13.1.0",
     "chai": "^4.1.2",
     "dirty-chai": "^2.0.1",
     "interface-stream-muxer": "~0.5.9",
@@ -42,7 +42,7 @@
     "async": "^2.6.0",
     "debug": "^3.1.0",
     "pull-abortable": "^4.1.1",
-    "pull-mplex": "~0.0.1",
+    "pull-mplex": "git+ssh://git@github.com:libp2p/pull-mplex.git#feat/pull-mplex",
     "pull-stream": "^3.6.7"
   },
   "contributors": [
